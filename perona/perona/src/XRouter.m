@@ -98,7 +98,7 @@
 }
 
 //匹配目标
--(id)match:(NSString*) source{
+-(XHandler)match:(NSString*) source{
     for (XRuleListener* l in _routerList.allValues) {
         if ([l matches:source]) {
             return l.target;

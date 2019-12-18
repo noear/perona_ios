@@ -23,7 +23,7 @@ static id _global = nil;
 -(instancetype)initWith:(UIApplication*)application params:(nullable NSDictionary*)params;
 /** 自动加载模块 */
 -(void)loadModules;
--(void)do_execute:(XContext *)context handler:(XHandler*)handler;
+-(void)do_execute:(XContext *)context handler:(XHandler)handler;
 
 @end
 

@@ -22,7 +22,7 @@
     // Override point for customization after application launch.
     
     //启动服务（内置了正则路由 和 HASH路由，也可以自己定义一个）
-    [XApp start:application router:[[XRouterExp alloc] init]];
+    [XApp start:application init]];
     
     
     //添加一些自建的模块

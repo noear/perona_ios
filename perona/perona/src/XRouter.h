@@ -19,7 +19,7 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)remove:(NSObject*)obj expr:(NSString*)expr;
 
 //匹配目标（第一项目）
--(id)match:(NSString*) source;
+-(XHandler)match:(NSString*) source;
 //匹配目标（所有项目）
 -(NSArray*)matches:(NSString*) source;
 @end
