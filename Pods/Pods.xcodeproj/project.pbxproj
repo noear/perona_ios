@@ -7,43 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0E32B52A4CA018704E7C59D95657D44D /* demo_module2-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 950B3C41D8446E3124D435273A1A2425 /* demo_module2-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1CBE73985B7321FE411E6C27FA4909B9 /* perona-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E91CCCB5971683C0F1B6F7F7FA7683E /* perona-dummy.m */; };
-		1F0BB5DDDFD2CEC24BE6C2214AC7937C /* perona-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DB8263045AFCA489AC35272DDEC0338 /* perona-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0E32B52A4CA018704E7C59D95657D44D /* demo_module2-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3829705CD120AB782C36291CAFD346A1 /* demo_module2-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1CBE73985B7321FE411E6C27FA4909B9 /* perona-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1627169B6D25A36828E2919CB2B66B60 /* perona-dummy.m */; };
+		1F0BB5DDDFD2CEC24BE6C2214AC7937C /* perona-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F84C65146401710910F3418653D71360 /* perona-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1FAAC6B41CEC138BC8DFED16A11B7B9C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 274FA4C9F4BD2E43BE6B3A24465D0E8C /* Foundation.framework */; };
-		2A59E72314B92096D6C4D6AEDC2E7847 /* XClient.m in Sources */ = {isa = PBXBuildFile; fileRef = F117C593B12639601A4EFB433F958D78 /* XClient.m */; };
+		2A59E72314B92096D6C4D6AEDC2E7847 /* XClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B7436B309F6BB83FA1FEB621E200225 /* XClient.m */; };
 		3EC60EA3B652AC4739C9B19256DF272C /* Pods-perona-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F75CA3D5245B0D72351993FA31D80B6F /* Pods-perona-dummy.m */; };
-		452A2181C67A4723A8848A0B1DCC9D8C /* XRouter.h in Headers */ = {isa = PBXBuildFile; fileRef = CB2BE96538C71E459FB18E44546FD08F /* XRouter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		452A2181C67A4723A8848A0B1DCC9D8C /* XRouter.h in Headers */ = {isa = PBXBuildFile; fileRef = DD7B0A0FA5B2B140BFA3B83B1F02AF0E /* XRouter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		48CA18BA3C454C265910AAB1CD8EAC45 /* perona.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65F9496CF5DEB6F3FC9B2365E3C3AE89 /* perona.framework */; };
-		52DF7CC4D2950B5FDE9C7AE45F903440 /* XClient.h in Headers */ = {isa = PBXBuildFile; fileRef = 20BA45BED08F44272B13AEC493957980 /* XClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		56363B277F5108C70020EA5C731CE36A /* XHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = EB60C84B39754344530FE9370283EC0B /* XHandler.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5DAF3345E9A9CE5C98D67827A7084C62 /* demo_module2-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F6DF28626620589289CA6F787F4E06F8 /* demo_module2-dummy.m */; };
-		5F307C7DC9AC128EFF32E224ED008713 /* XApp.m in Sources */ = {isa = PBXBuildFile; fileRef = B3DB9BB1DC1858A2F682B504F330370F /* XApp.m */; };
+		52DF7CC4D2950B5FDE9C7AE45F903440 /* XClient.h in Headers */ = {isa = PBXBuildFile; fileRef = 3DD4E01A456679E6CEC5CD5DD8D2EB00 /* XClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		56363B277F5108C70020EA5C731CE36A /* XHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F7B8E78E4FD4F1997F1C84B4FD3BDDD /* XHandler.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5DAF3345E9A9CE5C98D67827A7084C62 /* demo_module2-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 547271FABBC267ECE813EDD8F880238D /* demo_module2-dummy.m */; };
+		5F307C7DC9AC128EFF32E224ED008713 /* XApp.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D42A0A9EF4163C4A275D398DB014538 /* XApp.m */; };
 		6208658804FF732058071E7692CC1504 /* Pods-demo_module2-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 19DB474665097CADC10DB610DEE47784 /* Pods-demo_module2-dummy.m */; };
-		672D46A4618F23CF6B8C38D93A549423 /* XModuleImpModule2Ex.h in Headers */ = {isa = PBXBuildFile; fileRef = 72A956330F17D9CC5201CD8A025ABD6D /* XModuleImpModule2Ex.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		681E521D115E8C21B22B283AC9BBFD5D /* XModule.h in Headers */ = {isa = PBXBuildFile; fileRef = 754A77C0660DFF6EA460FA64461644CB /* XModule.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		68AE57264C156F892E07738963F20DAC /* XUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = CA4DE078E4D699B752C2FC7CD590530B /* XUtil.m */; };
+		672D46A4618F23CF6B8C38D93A549423 /* XModuleImpModule2Ex.h in Headers */ = {isa = PBXBuildFile; fileRef = 62D734966AE8852EEE0BAFCB331C9DCD /* XModuleImpModule2Ex.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		681E521D115E8C21B22B283AC9BBFD5D /* XModule.h in Headers */ = {isa = PBXBuildFile; fileRef = A5197FEB50E43F3AA4769D6FC2D32EF3 /* XModule.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		68AE57264C156F892E07738963F20DAC /* XUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 75D963505078C034871144C0293C5357 /* XUtil.m */; };
 		6C9323EF5B0C9C0A8C1AD689E40E3182 /* Pods-demo_app-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 93FC76099B2331E2ED1931B4F32FDDAC /* Pods-demo_app-dummy.m */; };
-		7540F9AFE3AB0EBDE80611BC9B8B5EFA /* XModuleImpModule2Ex.m in Sources */ = {isa = PBXBuildFile; fileRef = 139A81DFF50193271C475E04B82BF63F /* XModuleImpModule2Ex.m */; };
-		755E23F353FF8ECECE9763FA250B5573 /* XApp.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DB8CC071B6AD48F9485C7DA37DF5ABA /* XApp.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7540F9AFE3AB0EBDE80611BC9B8B5EFA /* XModuleImpModule2Ex.m in Sources */ = {isa = PBXBuildFile; fileRef = 17A21A19A4675DA1B2B1EAF2ACC96375 /* XModuleImpModule2Ex.m */; };
+		755E23F353FF8ECECE9763FA250B5573 /* XApp.h in Headers */ = {isa = PBXBuildFile; fileRef = C5971D8EB6BAEECCEB370986110EA8ED /* XApp.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		769F35C7BFE9DF9D9E704F1E368F392F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 274FA4C9F4BD2E43BE6B3A24465D0E8C /* Foundation.framework */; };
 		8916169D9ECBCDF0D493ABD51978D147 /* Pods-demo_app-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6B5AAFBC9C5439BF8960CD5BAD30459C /* Pods-demo_app-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		89498DA103A4F2DFB001523E531F6608 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 274FA4C9F4BD2E43BE6B3A24465D0E8C /* Foundation.framework */; };
-		8C30B5BAD1198B2883AF9C4A6717A743 /* XRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CB09CD324B1B11CD91BFFD475FB2FE /* XRouter.m */; };
-		8C9552C236B119CF806E03DCDA2B5A47 /* XCallback.h in Headers */ = {isa = PBXBuildFile; fileRef = 4895923ED1F70AD0D4B429249FBC0389 /* XCallback.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		988C328A2869DBBE3F221614A622B20D /* perona.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4A322AAFF601A837396F792A6F189122 /* perona.plist */; };
+		8C30B5BAD1198B2883AF9C4A6717A743 /* XRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = B631FF38B152CAFA172499C0DDCD4542 /* XRouter.m */; };
+		8C9552C236B119CF806E03DCDA2B5A47 /* XCallback.h in Headers */ = {isa = PBXBuildFile; fileRef = 06DD9298968CF89D6DDF431E2A8A969F /* XCallback.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		988C328A2869DBBE3F221614A622B20D /* perona.plist in Resources */ = {isa = PBXBuildFile; fileRef = C126A9F408F3BE6C2FFDEDD4C380316C /* perona.plist */; };
 		9E2E09DD6B647FC48453DE08D9192266 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 274FA4C9F4BD2E43BE6B3A24465D0E8C /* Foundation.framework */; };
 		A699F7137E9B50B6A4121AB506ECB3D1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 274FA4C9F4BD2E43BE6B3A24465D0E8C /* Foundation.framework */; };
 		AC7D049E26F75C474125A68DC35AD8DF /* Pods-perona-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A4FADE0DA3EDA1A3C5139D9A6B0930C /* Pods-perona-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BE368375C041700FEFABB6188D0D4318 /* demo_module2.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F6B16E4D39443EBF81AC645903F8E3AA /* demo_module2.bundle */; };
-		C3619276F259AD0762E5B8C7A609C193 /* XUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 1EDECCA13A7944BFA48A1146A502F6CF /* XUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C6B1A7C55870C0C7F16BE30EB6BEC7F0 /* XContext.m in Sources */ = {isa = PBXBuildFile; fileRef = 956B152FDAD44F5C5EA31F9BBCE8E2BD /* XContext.m */; };
-		E0A750E4B2E19E2837983F410B93A096 /* XModuleImpModule2.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D267E4A6C1E60884BB9795D33A7E664 /* XModuleImpModule2.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EC7C7260AE1115177D1286A274B5D6B0 /* XModuleImpModule2.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C86BA48BCCACB414D4C81852AF149AF /* XModuleImpModule2.m */; };
-		EFC49B14479990F599901ACA6E67B647 /* XContext.h in Headers */ = {isa = PBXBuildFile; fileRef = 906F5C31AB10179E934A7D70FDF477EE /* XContext.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C3619276F259AD0762E5B8C7A609C193 /* XUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 80E15884F4C8B2B1DFBEA2EEAE6E6A5F /* XUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C6B1A7C55870C0C7F16BE30EB6BEC7F0 /* XContext.m in Sources */ = {isa = PBXBuildFile; fileRef = E98DA7E123101555CFB8067B9A81DDA5 /* XContext.m */; };
+		E0A750E4B2E19E2837983F410B93A096 /* XModuleImpModule2.h in Headers */ = {isa = PBXBuildFile; fileRef = 05F2EEBF090356D081A64C78E91E3433 /* XModuleImpModule2.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EC7C7260AE1115177D1286A274B5D6B0 /* XModuleImpModule2.m in Sources */ = {isa = PBXBuildFile; fileRef = AA21C41BEB76A53D0950DC8256A62225 /* XModuleImpModule2.m */; };
+		EFC49B14479990F599901ACA6E67B647 /* XContext.h in Headers */ = {isa = PBXBuildFile; fileRef = 283F4D5A2A531F76B14292594486366F /* XContext.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F535A8059D4D9669CDFAB5C836EB0221 /* Pods-demo_module2-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 804DDFC4C34CFA5AC73CE08EBF999F1B /* Pods-demo_module2-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FD9471AA72595CF648EF910748B7B8F5 /* demo_module2.h in Headers */ = {isa = PBXBuildFile; fileRef = 65D44F3A62AF9D4CD186A560A47A0BD1 /* demo_module2.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FE7144097A8E5E0B3A5A0E5725A9FA53 /* perona.h in Headers */ = {isa = PBXBuildFile; fileRef = F1FFBB58DD3852ACCDB28BC5822F48B3 /* perona.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FD9471AA72595CF648EF910748B7B8F5 /* demo_module2.h in Headers */ = {isa = PBXBuildFile; fileRef = 8A64D1EE0A4A48879CD851607EE577DE /* demo_module2.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FE7144097A8E5E0B3A5A0E5725A9FA53 /* perona.h in Headers */ = {isa = PBXBuildFile; fileRef = 868B1C5378CC01F3A2DEF706B23C1E98 /* perona.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,75 +85,75 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		010DD4D1D4B113F77FB9A8443936E37A /* demo_module2.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = demo_module2.modulemap; sourceTree = "<group>"; };
+		05F2EEBF090356D081A64C78E91E3433 /* XModuleImpModule2.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XModuleImpModule2.h; sourceTree = "<group>"; };
+		06DD9298968CF89D6DDF431E2A8A969F /* XCallback.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XCallback.h; sourceTree = "<group>"; };
 		085BB4EECBF2A1180D86CAF8E0611508 /* Pods-demo_app-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-demo_app-frameworks.sh"; sourceTree = "<group>"; };
 		0920E70271B4548945D5B18386002DC9 /* Pods-perona.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-perona.modulemap"; sourceTree = "<group>"; };
-		139A81DFF50193271C475E04B82BF63F /* XModuleImpModule2Ex.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XModuleImpModule2Ex.m; sourceTree = "<group>"; };
+		1627169B6D25A36828E2919CB2B66B60 /* perona-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "perona-dummy.m"; sourceTree = "<group>"; };
+		17A21A19A4675DA1B2B1EAF2ACC96375 /* XModuleImpModule2Ex.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XModuleImpModule2Ex.m; sourceTree = "<group>"; };
 		19DB474665097CADC10DB610DEE47784 /* Pods-demo_module2-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-demo_module2-dummy.m"; sourceTree = "<group>"; };
-		1DB8263045AFCA489AC35272DDEC0338 /* perona-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "perona-umbrella.h"; sourceTree = "<group>"; };
-		1DB8CC071B6AD48F9485C7DA37DF5ABA /* XApp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XApp.h; sourceTree = "<group>"; };
-		1EDECCA13A7944BFA48A1146A502F6CF /* XUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XUtil.h; sourceTree = "<group>"; };
-		20BA45BED08F44272B13AEC493957980 /* XClient.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XClient.h; sourceTree = "<group>"; };
 		23E13F41D33F3BDB842B6882BA8DCD2C /* Pods-demo_app.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-demo_app.release.xcconfig"; sourceTree = "<group>"; };
 		274FA4C9F4BD2E43BE6B3A24465D0E8C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		283F4D5A2A531F76B14292594486366F /* XContext.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XContext.h; sourceTree = "<group>"; };
 		2C385D4EF1FB533AE9C34D0F0500BA20 /* Pods-perona.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-perona.release.xcconfig"; sourceTree = "<group>"; };
-		2D267E4A6C1E60884BB9795D33A7E664 /* XModuleImpModule2.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XModuleImpModule2.h; sourceTree = "<group>"; };
-		30F49CC53322F7A721214FA3A82FDE11 /* demo_module2.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = demo_module2.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		2D58276E4FD3FD50DC8ADD3EEB1654C4 /* perona.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = perona.xcconfig; sourceTree = "<group>"; };
+		3829705CD120AB782C36291CAFD346A1 /* demo_module2-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "demo_module2-umbrella.h"; sourceTree = "<group>"; };
 		3A4FADE0DA3EDA1A3C5139D9A6B0930C /* Pods-perona-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-perona-umbrella.h"; sourceTree = "<group>"; };
-		3C86BA48BCCACB414D4C81852AF149AF /* XModuleImpModule2.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XModuleImpModule2.m; sourceTree = "<group>"; };
-		45E185B4B1EA1F02F9A6841034D24DD6 /* demo_module2-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "demo_module2-Info.plist"; sourceTree = "<group>"; };
+		3DD4E01A456679E6CEC5CD5DD8D2EB00 /* XClient.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XClient.h; sourceTree = "<group>"; };
 		47D815C21A6372E5CBF9025A1EDAD33D /* Pods-perona-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-perona-acknowledgements.plist"; sourceTree = "<group>"; };
-		48595AD82E62D0A84CBC7A1A58EBED8D /* perona.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = perona.xcconfig; sourceTree = "<group>"; };
-		4895923ED1F70AD0D4B429249FBC0389 /* XCallback.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XCallback.h; sourceTree = "<group>"; };
-		4A322AAFF601A837396F792A6F189122 /* perona.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = perona.plist; path = demo_module2/perona.plist; sourceTree = "<group>"; };
 		4E8F987E7840F6671EC3BCD9C5F7B30F /* perona.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = perona.framework; path = perona.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4E91CCCB5971683C0F1B6F7F7FA7683E /* perona-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "perona-dummy.m"; sourceTree = "<group>"; };
-		4FFD203B338FA49B92FB58DE890A39B5 /* demo_module2-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "demo_module2-prefix.pch"; sourceTree = "<group>"; };
-		52D83D3C25CB80621F3D25F3C88CC6EB /* perona-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "perona-Info.plist"; sourceTree = "<group>"; };
-		5C273DCDB88CB93871BCB7C2569D89AD /* demo_module2.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = demo_module2.xcconfig; sourceTree = "<group>"; };
+		547271FABBC267ECE813EDD8F880238D /* demo_module2-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "demo_module2-dummy.m"; sourceTree = "<group>"; };
+		5AD12E743DA87FC1DD7CD00FE85D6B32 /* ResourceBundle-demo_module2-demo_module2-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-demo_module2-demo_module2-Info.plist"; sourceTree = "<group>"; };
+		5F7B8E78E4FD4F1997F1C84B4FD3BDDD /* XHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XHandler.h; sourceTree = "<group>"; };
 		5FEDCA4B7A8CA2B9C57135B84C270E78 /* Pods-perona-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-perona-Info.plist"; sourceTree = "<group>"; };
-		65D44F3A62AF9D4CD186A560A47A0BD1 /* demo_module2.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = demo_module2.h; path = demo_module2/demo_module2.h; sourceTree = "<group>"; };
+		62D734966AE8852EEE0BAFCB331C9DCD /* XModuleImpModule2Ex.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XModuleImpModule2Ex.h; sourceTree = "<group>"; };
+		656BA1017696285AAE04A360C4F8F674 /* demo_module2.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = demo_module2.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		65F9496CF5DEB6F3FC9B2365E3C3AE89 /* perona.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = perona.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		67FEEC51C1882B939C263AD02DB1DF13 /* Pods_demo_app.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_demo_app.framework; path = "Pods-demo_app.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B5AAFBC9C5439BF8960CD5BAD30459C /* Pods-demo_app-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-demo_app-umbrella.h"; sourceTree = "<group>"; };
 		6B9C207D610A688C850EFE5EDF6D49A8 /* Pods-demo_module2-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-demo_module2-acknowledgements.markdown"; sourceTree = "<group>"; };
-		72A956330F17D9CC5201CD8A025ABD6D /* XModuleImpModule2Ex.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XModuleImpModule2Ex.h; sourceTree = "<group>"; };
-		754A77C0660DFF6EA460FA64461644CB /* XModule.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XModule.h; sourceTree = "<group>"; };
-		777C71F0D911D6A6187878A765890600 /* XRouter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XRouter.h; sourceTree = "<group>"; };
-		7DDED118F1AC3611E53BA53F2628AD27 /* perona-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "perona-prefix.pch"; sourceTree = "<group>"; };
+		6F676B3CDD231802108CF9C47F215ADA /* demo_module2.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = demo_module2.modulemap; sourceTree = "<group>"; };
+		75D963505078C034871144C0293C5357 /* XUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XUtil.m; sourceTree = "<group>"; };
 		804DDFC4C34CFA5AC73CE08EBF999F1B /* Pods-demo_module2-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-demo_module2-umbrella.h"; sourceTree = "<group>"; };
+		80E15884F4C8B2B1DFBEA2EEAE6E6A5F /* XUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XUtil.h; sourceTree = "<group>"; };
 		864BC6F54C0E1651243D750ECAC0123D /* Pods-perona-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-perona-acknowledgements.markdown"; sourceTree = "<group>"; };
+		868B1C5378CC01F3A2DEF706B23C1E98 /* perona.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = perona.h; path = perona/perona.h; sourceTree = "<group>"; };
+		8A64D1EE0A4A48879CD851607EE577DE /* demo_module2.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = demo_module2.h; path = demo_module2/demo_module2.h; sourceTree = "<group>"; };
+		8D42A0A9EF4163C4A275D398DB014538 /* XApp.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XApp.m; sourceTree = "<group>"; };
+		8E0312A00CBD0351D10A2620DD1F7F07 /* perona.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = perona.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		8F42084C0C59FCDEC04715584819F456 /* Pods-demo_app.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-demo_app.debug.xcconfig"; sourceTree = "<group>"; };
-		906F5C31AB10179E934A7D70FDF477EE /* XContext.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XContext.h; sourceTree = "<group>"; };
 		93FC76099B2331E2ED1931B4F32FDDAC /* Pods-demo_app-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-demo_app-dummy.m"; sourceTree = "<group>"; };
-		950B3C41D8446E3124D435273A1A2425 /* demo_module2-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "demo_module2-umbrella.h"; sourceTree = "<group>"; };
-		956B152FDAD44F5C5EA31F9BBCE8E2BD /* XContext.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XContext.m; sourceTree = "<group>"; };
+		948DAAF8CECCF469FBC72A08ABAAD425 /* demo_module2.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = demo_module2.xcconfig; sourceTree = "<group>"; };
 		9846B31515CED26625412E5A593909CF /* Pods_demo_module2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_demo_module2.framework; path = "Pods-demo_module2.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B7436B309F6BB83FA1FEB621E200225 /* XClient.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XClient.m; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A10EBC514CAD3FEF395A6E032C49487E /* Pods-demo_module2-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-demo_module2-acknowledgements.plist"; sourceTree = "<group>"; };
 		A40C906DE25AC12B9EE3D791764F8EC8 /* demo_module2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = demo_module2.framework; path = demo_module2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5197FEB50E43F3AA4769D6FC2D32EF3 /* XModule.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XModule.h; sourceTree = "<group>"; };
 		A745ACAC945CE6B1BAC6D93F1909068A /* Pods_perona.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_perona.framework; path = "Pods-perona.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A7CB09CD324B1B11CD91BFFD475FB2FE /* XRouter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XRouter.m; sourceTree = "<group>"; };
+		AA21C41BEB76A53D0950DC8256A62225 /* XModuleImpModule2.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XModuleImpModule2.m; sourceTree = "<group>"; };
+		ACA0C87F16FEE6DEB1A4390E8395381A /* demo_module2-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "demo_module2-prefix.pch"; sourceTree = "<group>"; };
+		AD17E757F908797E695DFC20A919C40A /* perona.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = perona.modulemap; sourceTree = "<group>"; };
 		AD983C4D9AABF82CBFE1ABF092AEFB96 /* Pods-demo_app.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-demo_app.modulemap"; sourceTree = "<group>"; };
-		B0A1ADE23B35040261E491BF22C56842 /* ResourceBundle-demo_module2-demo_module2-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-demo_module2-demo_module2-Info.plist"; sourceTree = "<group>"; };
-		B3DB9BB1DC1858A2F682B504F330370F /* XApp.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XApp.m; sourceTree = "<group>"; };
+		B631FF38B152CAFA172499C0DDCD4542 /* XRouter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XRouter.m; sourceTree = "<group>"; };
 		BC4090ED5B25F6AD5ADE109EECC50A66 /* Pods-demo_app-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-demo_app-Info.plist"; sourceTree = "<group>"; };
-		C30CAEAAC2DDF75E363B22D58CE65620 /* perona.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = perona.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		CA4DE078E4D699B752C2FC7CD590530B /* XUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XUtil.m; sourceTree = "<group>"; };
-		CB2BE96538C71E459FB18E44546FD08F /* XRouter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XRouter.h; sourceTree = "<group>"; };
+		C126A9F408F3BE6C2FFDEDD4C380316C /* perona.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = perona.plist; path = demo_module2/perona.plist; sourceTree = "<group>"; };
+		C511749F87C159288E204EA80079789D /* XRouter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XRouter.h; sourceTree = "<group>"; };
+		C5971D8EB6BAEECCEB370986110EA8ED /* XApp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XApp.h; sourceTree = "<group>"; };
+		C78A989D42414099DD5EA73B7EEE530F /* perona-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "perona-prefix.pch"; sourceTree = "<group>"; };
+		CE0105B008F912F65C7E450648C931DA /* perona-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "perona-Info.plist"; sourceTree = "<group>"; };
 		D71613E517ADF9306D8EE4B9D175E84E /* Pods-demo_app-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-demo_app-acknowledgements.markdown"; sourceTree = "<group>"; };
+		DD7B0A0FA5B2B140BFA3B83B1F02AF0E /* XRouter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XRouter.h; sourceTree = "<group>"; };
+		DE2378F5BA69B2F7FF462DA12A970B11 /* demo_module2-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "demo_module2-Info.plist"; sourceTree = "<group>"; };
 		E578221C4F82518B0E7A9C966B9F91E0 /* Pods-perona.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-perona.debug.xcconfig"; sourceTree = "<group>"; };
-		E9B5C814AF8FCC06300B2C8026D2042E /* perona.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = perona.modulemap; sourceTree = "<group>"; };
-		EB60C84B39754344530FE9370283EC0B /* XHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XHandler.h; sourceTree = "<group>"; };
+		E98DA7E123101555CFB8067B9A81DDA5 /* XContext.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XContext.m; sourceTree = "<group>"; };
 		EF9BAA31C2690EA131033FE23662D074 /* Pods-demo_app-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-demo_app-acknowledgements.plist"; sourceTree = "<group>"; };
 		F03400C902445A1F321BB05541A5114C /* Pods-demo_module2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-demo_module2.debug.xcconfig"; sourceTree = "<group>"; };
-		F117C593B12639601A4EFB433F958D78 /* XClient.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XClient.m; sourceTree = "<group>"; };
-		F1FFBB58DD3852ACCDB28BC5822F48B3 /* perona.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = perona.h; path = perona/perona.h; sourceTree = "<group>"; };
 		F66DA23396FF35F15A26F1C6E1CF4B99 /* Pods-demo_module2-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-demo_module2-Info.plist"; sourceTree = "<group>"; };
 		F6B1285B000A7B7CB6050C1D5429A641 /* Pods-demo_module2.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-demo_module2.modulemap"; sourceTree = "<group>"; };
 		F6B16E4D39443EBF81AC645903F8E3AA /* demo_module2.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = demo_module2.bundle; path = "demo_module2-demo_module2.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F6DF28626620589289CA6F787F4E06F8 /* demo_module2-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "demo_module2-dummy.m"; sourceTree = "<group>"; };
 		F75CA3D5245B0D72351993FA31D80B6F /* Pods-perona-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-perona-dummy.m"; sourceTree = "<group>"; };
+		F84C65146401710910F3418653D71360 /* perona-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "perona-umbrella.h"; sourceTree = "<group>"; };
 		F9B10684F5016D876A5A263459E0386F /* Pods-demo_module2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-demo_module2.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -209,90 +209,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2384344E22140BE0FCD910611B134FD9 /* protocol */ = {
-			isa = PBXGroup;
-			children = (
-				4895923ED1F70AD0D4B429249FBC0389 /* XCallback.h */,
-				EB60C84B39754344530FE9370283EC0B /* XHandler.h */,
-				754A77C0660DFF6EA460FA64461644CB /* XModule.h */,
-				777C71F0D911D6A6187878A765890600 /* XRouter.h */,
-			);
-			name = protocol;
-			path = protocol;
-			sourceTree = "<group>";
-		};
-		258BD26B7546FFAF1DB7D392A6C2F64C /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				30F49CC53322F7A721214FA3A82FDE11 /* demo_module2.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		25AFE773353881840CB116AA6640292B /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				E9B5C814AF8FCC06300B2C8026D2042E /* perona.modulemap */,
-				48595AD82E62D0A84CBC7A1A58EBED8D /* perona.xcconfig */,
-				4E91CCCB5971683C0F1B6F7F7FA7683E /* perona-dummy.m */,
-				52D83D3C25CB80621F3D25F3C88CC6EB /* perona-Info.plist */,
-				7DDED118F1AC3611E53BA53F2628AD27 /* perona-prefix.pch */,
-				1DB8263045AFCA489AC35272DDEC0338 /* perona-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "../Pods/Target Support Files/perona";
-			sourceTree = "<group>";
-		};
-		298B1BCA5CC2BF3511CEB9B35BC329A9 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				C30CAEAAC2DDF75E363B22D58CE65620 /* perona.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		4184DD67EAD6E895A9AEDC66794F3E59 /* demo_module2 */ = {
-			isa = PBXGroup;
-			children = (
-				65D44F3A62AF9D4CD186A560A47A0BD1 /* demo_module2.h */,
-				258BD26B7546FFAF1DB7D392A6C2F64C /* Pod */,
-				487CCE4A5336FF7404CB59BB160CC6B7 /* Resources */,
-				92706D7F9AAE3225627F6D71D321652B /* src */,
-				B21D4ABCB5EEC627BEF6E35EB5593D02 /* Support Files */,
-			);
-			name = demo_module2;
-			path = ../perona_demo/demo_module2;
-			sourceTree = "<group>";
-		};
-		44DAE676FB8AB76D629F64E155F8A22A /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				4184DD67EAD6E895A9AEDC66794F3E59 /* demo_module2 */,
-				5D736FEB18DAFCA0D208A757858060AF /* perona */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		487CCE4A5336FF7404CB59BB160CC6B7 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				4A322AAFF601A837396F792A6F189122 /* perona.plist */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-		};
-		5D736FEB18DAFCA0D208A757858060AF /* perona */ = {
-			isa = PBXGroup;
-			children = (
-				F1FFBB58DD3852ACCDB28BC5822F48B3 /* perona.h */,
-				298B1BCA5CC2BF3511CEB9B35BC329A9 /* Pod */,
-				850AF5DC7040A9E28D7630FA619A0C54 /* src */,
-				25AFE773353881840CB116AA6640292B /* Support Files */,
-			);
-			name = perona;
-			path = ../perona;
-			sourceTree = "<group>";
-		};
 		5FCFD47215B7BC6A023CC0DAFF911146 /* Pods-perona */ = {
 			isa = PBXGroup;
 			children = (
@@ -309,6 +225,45 @@
 			path = "Target Support Files/Pods-perona";
 			sourceTree = "<group>";
 		};
+		6486E62382112672832E16C7712DA056 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				8E0312A00CBD0351D10A2620DD1F7F07 /* perona.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		67A3ED2BC7F5ECC561D2B79F036380A1 /* perona */ = {
+			isa = PBXGroup;
+			children = (
+				868B1C5378CC01F3A2DEF706B23C1E98 /* perona.h */,
+				6486E62382112672832E16C7712DA056 /* Pod */,
+				70668D8AA96E0DBE76EDFE9873230EA6 /* src */,
+				97B321CB2EAA1161569A416EB986BA5E /* Support Files */,
+			);
+			name = perona;
+			path = ../perona;
+			sourceTree = "<group>";
+		};
+		70668D8AA96E0DBE76EDFE9873230EA6 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				C5971D8EB6BAEECCEB370986110EA8ED /* XApp.h */,
+				8D42A0A9EF4163C4A275D398DB014538 /* XApp.m */,
+				3DD4E01A456679E6CEC5CD5DD8D2EB00 /* XClient.h */,
+				9B7436B309F6BB83FA1FEB621E200225 /* XClient.m */,
+				283F4D5A2A531F76B14292594486366F /* XContext.h */,
+				E98DA7E123101555CFB8067B9A81DDA5 /* XContext.m */,
+				DD7B0A0FA5B2B140BFA3B83B1F02AF0E /* XRouter.h */,
+				B631FF38B152CAFA172499C0DDCD4542 /* XRouter.m */,
+				80E15884F4C8B2B1DFBEA2EEAE6E6A5F /* XUtil.h */,
+				75D963505078C034871144C0293C5357 /* XUtil.m */,
+				B6E05CC07D0769213E54171519228E4F /* protocol */,
+			);
+			name = src;
+			path = perona/src;
+			sourceTree = "<group>";
+		};
 		7812205402378CFC8D2994995F268397 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -317,35 +272,54 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		850AF5DC7040A9E28D7630FA619A0C54 /* src */ = {
+		97B321CB2EAA1161569A416EB986BA5E /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				1DB8CC071B6AD48F9485C7DA37DF5ABA /* XApp.h */,
-				B3DB9BB1DC1858A2F682B504F330370F /* XApp.m */,
-				20BA45BED08F44272B13AEC493957980 /* XClient.h */,
-				F117C593B12639601A4EFB433F958D78 /* XClient.m */,
-				906F5C31AB10179E934A7D70FDF477EE /* XContext.h */,
-				956B152FDAD44F5C5EA31F9BBCE8E2BD /* XContext.m */,
-				CB2BE96538C71E459FB18E44546FD08F /* XRouter.h */,
-				A7CB09CD324B1B11CD91BFFD475FB2FE /* XRouter.m */,
-				1EDECCA13A7944BFA48A1146A502F6CF /* XUtil.h */,
-				CA4DE078E4D699B752C2FC7CD590530B /* XUtil.m */,
-				2384344E22140BE0FCD910611B134FD9 /* protocol */,
+				AD17E757F908797E695DFC20A919C40A /* perona.modulemap */,
+				2D58276E4FD3FD50DC8ADD3EEB1654C4 /* perona.xcconfig */,
+				1627169B6D25A36828E2919CB2B66B60 /* perona-dummy.m */,
+				CE0105B008F912F65C7E450648C931DA /* perona-Info.plist */,
+				C78A989D42414099DD5EA73B7EEE530F /* perona-prefix.pch */,
+				F84C65146401710910F3418653D71360 /* perona-umbrella.h */,
 			);
-			name = src;
-			path = perona/src;
+			name = "Support Files";
+			path = "../Pods/Target Support Files/perona";
 			sourceTree = "<group>";
 		};
-		92706D7F9AAE3225627F6D71D321652B /* src */ = {
+		9A765B9E556EEA4F10E29A00FCC4F581 /* demo_module2 */ = {
 			isa = PBXGroup;
 			children = (
-				2D267E4A6C1E60884BB9795D33A7E664 /* XModuleImpModule2.h */,
-				3C86BA48BCCACB414D4C81852AF149AF /* XModuleImpModule2.m */,
-				72A956330F17D9CC5201CD8A025ABD6D /* XModuleImpModule2Ex.h */,
-				139A81DFF50193271C475E04B82BF63F /* XModuleImpModule2Ex.m */,
+				8A64D1EE0A4A48879CD851607EE577DE /* demo_module2.h */,
+				A5CEEE65F3F1DD16A60ED8EFD55BD0FB /* Pod */,
+				FE8FE9ED0349B543C2B14FA21224EB5F /* Resources */,
+				FFC2DBCB797482C880030EFFAF8B5AD3 /* src */,
+				A50F38E5EFBD7CB11607BFEC4F61F201 /* Support Files */,
 			);
-			name = src;
-			path = demo_module2/src;
+			name = demo_module2;
+			path = ../demo_module2;
+			sourceTree = "<group>";
+		};
+		A50F38E5EFBD7CB11607BFEC4F61F201 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				6F676B3CDD231802108CF9C47F215ADA /* demo_module2.modulemap */,
+				948DAAF8CECCF469FBC72A08ABAAD425 /* demo_module2.xcconfig */,
+				547271FABBC267ECE813EDD8F880238D /* demo_module2-dummy.m */,
+				DE2378F5BA69B2F7FF462DA12A970B11 /* demo_module2-Info.plist */,
+				ACA0C87F16FEE6DEB1A4390E8395381A /* demo_module2-prefix.pch */,
+				3829705CD120AB782C36291CAFD346A1 /* demo_module2-umbrella.h */,
+				5AD12E743DA87FC1DD7CD00FE85D6B32 /* ResourceBundle-demo_module2-demo_module2-Info.plist */,
+			);
+			name = "Support Files";
+			path = "../Pods/Target Support Files/demo_module2";
+			sourceTree = "<group>";
+		};
+		A5CEEE65F3F1DD16A60ED8EFD55BD0FB /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				656BA1017696285AAE04A360C4F8F674 /* demo_module2.podspec */,
+			);
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		AEEEE6A077D641DF3388FDF5FFE1B051 /* Products */ = {
@@ -361,19 +335,25 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B21D4ABCB5EEC627BEF6E35EB5593D02 /* Support Files */ = {
+		B6E05CC07D0769213E54171519228E4F /* protocol */ = {
 			isa = PBXGroup;
 			children = (
-				010DD4D1D4B113F77FB9A8443936E37A /* demo_module2.modulemap */,
-				5C273DCDB88CB93871BCB7C2569D89AD /* demo_module2.xcconfig */,
-				F6DF28626620589289CA6F787F4E06F8 /* demo_module2-dummy.m */,
-				45E185B4B1EA1F02F9A6841034D24DD6 /* demo_module2-Info.plist */,
-				4FFD203B338FA49B92FB58DE890A39B5 /* demo_module2-prefix.pch */,
-				950B3C41D8446E3124D435273A1A2425 /* demo_module2-umbrella.h */,
-				B0A1ADE23B35040261E491BF22C56842 /* ResourceBundle-demo_module2-demo_module2-Info.plist */,
+				06DD9298968CF89D6DDF431E2A8A969F /* XCallback.h */,
+				5F7B8E78E4FD4F1997F1C84B4FD3BDDD /* XHandler.h */,
+				A5197FEB50E43F3AA4769D6FC2D32EF3 /* XModule.h */,
+				C511749F87C159288E204EA80079789D /* XRouter.h */,
 			);
-			name = "Support Files";
-			path = "../../Pods/Target Support Files/demo_module2";
+			name = protocol;
+			path = protocol;
+			sourceTree = "<group>";
+		};
+		CAFC5E89C5347C9FADFC18DC7CB96CAC /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9A765B9E556EEA4F10E29A00FCC4F581 /* demo_module2 */,
+				67A3ED2BC7F5ECC561D2B79F036380A1 /* perona */,
+			);
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		CBF4A5842AB7B0F64BD023E3B452E898 /* Pods-demo_app */ = {
@@ -397,7 +377,7 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				44DAE676FB8AB76D629F64E155F8A22A /* Development Pods */,
+				CAFC5E89C5347C9FADFC18DC7CB96CAC /* Development Pods */,
 				E539B092A37F77289B0165A09C3FF845 /* Frameworks */,
 				AEEEE6A077D641DF3388FDF5FFE1B051 /* Products */,
 				EC49AA3362A338F5DAA4C5B793267E3D /* Targets Support Files */,
@@ -437,6 +417,26 @@
 			);
 			name = "Pods-demo_module2";
 			path = "Target Support Files/Pods-demo_module2";
+			sourceTree = "<group>";
+		};
+		FE8FE9ED0349B543C2B14FA21224EB5F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C126A9F408F3BE6C2FFDEDD4C380316C /* perona.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		FFC2DBCB797482C880030EFFAF8B5AD3 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				05F2EEBF090356D081A64C78E91E3433 /* XModuleImpModule2.h */,
+				AA21C41BEB76A53D0950DC8256A62225 /* XModuleImpModule2.m */,
+				62D734966AE8852EEE0BAFCB331C9DCD /* XModuleImpModule2Ex.h */,
+				17A21A19A4675DA1B2B1EAF2ACC96375 /* XModuleImpModule2Ex.m */,
+			);
+			name = src;
+			path = demo_module2/src;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -820,7 +820,7 @@
 		};
 		070F509EC04B48135448DE7670FA0487 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5C273DCDB88CB93871BCB7C2569D89AD /* demo_module2.xcconfig */;
+			baseConfigurationReference = 948DAAF8CECCF469FBC72A08ABAAD425 /* demo_module2.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/demo_module2";
@@ -837,7 +837,7 @@
 		};
 		152DD3A9C13D3B424F4B835BBFF0FE4C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5C273DCDB88CB93871BCB7C2569D89AD /* demo_module2.xcconfig */;
+			baseConfigurationReference = 948DAAF8CECCF469FBC72A08ABAAD425 /* demo_module2.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -909,7 +909,7 @@
 		};
 		575053269F97D62EF097C7FDAA9F9F6E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 48595AD82E62D0A84CBC7A1A58EBED8D /* perona.xcconfig */;
+			baseConfigurationReference = 2D58276E4FD3FD50DC8ADD3EEB1654C4 /* perona.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -943,7 +943,7 @@
 		};
 		89B1398BABEF1854CDE6AFB8B3ED5E52 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 48595AD82E62D0A84CBC7A1A58EBED8D /* perona.xcconfig */;
+			baseConfigurationReference = 2D58276E4FD3FD50DC8ADD3EEB1654C4 /* perona.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1102,7 +1102,7 @@
 		};
 		9F54316184F059F130847479C99CCF9C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5C273DCDB88CB93871BCB7C2569D89AD /* demo_module2.xcconfig */;
+			baseConfigurationReference = 948DAAF8CECCF469FBC72A08ABAAD425 /* demo_module2.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/demo_module2";
@@ -1119,7 +1119,7 @@
 		};
 		B4873FB654A557E6B0ECE1C6F36AF9D8 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5C273DCDB88CB93871BCB7C2569D89AD /* demo_module2.xcconfig */;
+			baseConfigurationReference = 948DAAF8CECCF469FBC72A08ABAAD425 /* demo_module2.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";

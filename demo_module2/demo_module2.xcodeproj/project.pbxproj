@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		04597365FCF7F8A0A12B379D /* Pods-demo_module2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demo_module2.debug.xcconfig"; path = "../../Pods/Target Support Files/Pods-demo_module2/Pods-demo_module2.debug.xcconfig"; sourceTree = "<group>"; };
+		04597365FCF7F8A0A12B379D /* Pods-demo_module2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demo_module2.debug.xcconfig"; path = "../Pods/Target Support Files/Pods-demo_module2/Pods-demo_module2.debug.xcconfig"; sourceTree = "<group>"; };
 		411881F2216DB05D00FF3993 /* XModuleImpModule2Ex.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XModuleImpModule2Ex.h; sourceTree = "<group>"; };
 		411881F3216DB05D00FF3993 /* XModuleImpModule2Ex.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XModuleImpModule2Ex.m; sourceTree = "<group>"; };
 		411D381A217F1BFD0016FF3D /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
@@ -28,7 +28,7 @@
 		41F81255216C85D700104310 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		41F81262216C864800104310 /* XModuleImpModule2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XModuleImpModule2.h; sourceTree = "<group>"; };
 		41F81263216C864800104310 /* XModuleImpModule2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XModuleImpModule2.m; sourceTree = "<group>"; };
-		6355E35E700AFB802638C76E /* Pods-demo_module2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demo_module2.release.xcconfig"; path = "../../Pods/Target Support Files/Pods-demo_module2/Pods-demo_module2.release.xcconfig"; sourceTree = "<group>"; };
+		6355E35E700AFB802638C76E /* Pods-demo_module2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demo_module2.release.xcconfig"; path = "../Pods/Target Support Files/Pods-demo_module2/Pods-demo_module2.release.xcconfig"; sourceTree = "<group>"; };
 		82BFEC62D2F31C2316524916 /* Pods_demo_module2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_demo_module2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 

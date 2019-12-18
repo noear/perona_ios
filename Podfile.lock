@@ -4,12 +4,12 @@ PODS:
   - perona (0.1.13)
 
 DEPENDENCIES:
-  - demo_module2 (from `perona_demo/demo_module2`)
+  - demo_module2 (from `demo_module2`)
   - perona (from `perona`)
 
 EXTERNAL SOURCES:
   demo_module2:
-    :path: perona_demo/demo_module2
+    :path: demo_module2
   perona:
     :path: perona
 
@@ -17,6 +17,6 @@ SPEC CHECKSUMS:
   demo_module2: d713c24e66517bb088a614d4267e82206c4b3c51
   perona: 174d2a5c1e27013832d6f357320310b60b0ab541
 
-PODFILE CHECKSUM: ffd0937d5e9ef947f3a811087c8f509a1cbd44fb
+PODFILE CHECKSUM: 19b4b6424d55a5168fa4e7636800decedfd54495
 
 COCOAPODS: 1.8.4

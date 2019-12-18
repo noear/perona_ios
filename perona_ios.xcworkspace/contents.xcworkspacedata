@@ -5,12 +5,12 @@
       location = "group:perona/perona.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:perona_demo/demo_app/demo_app.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:perona_demo/demo_module2/demo_module2.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:demo_app/demo_app.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:demo_module2/demo_module2.xcodeproj">
    </FileRef>
 </Workspace>
