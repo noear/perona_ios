@@ -3,12 +3,12 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		3A7E7F95582F9E08740659FF /* Pods_demo_app.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87EC22B7034C5CB924A8C062 /* Pods_demo_app.framework */; };
-		4122A7A621749363006725B2 /* XModuleKabao.m in Sources */ = {isa = PBXBuildFile; fileRef = 4122A7A521749363006725B2 /* XModuleKabao.m */; };
+		4122A7A621749363006725B2 /* XModuleKbx.m in Sources */ = {isa = PBXBuildFile; fileRef = 4122A7A521749363006725B2 /* XModuleKbx.m */; };
 		41F811E2216AFD8A00104310 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 41F811E1216AFD8A00104310 /* AppDelegate.m */; };
 		41F811E5216AFD8A00104310 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 41F811E4216AFD8A00104310 /* ViewController.m */; };
 		41F811E8216AFD8A00104310 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41F811E6216AFD8A00104310 /* Main.storyboard */; };
@@ -19,8 +19,8 @@
 
 /* Begin PBXFileReference section */
 		1EE95FB585FD933605C97647 /* Pods-demo_app.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demo_app.release.xcconfig"; path = "../Pods/Target Support Files/Pods-demo_app/Pods-demo_app.release.xcconfig"; sourceTree = "<group>"; };
-		4122A7A421749363006725B2 /* XModuleKabao.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XModuleKabao.h; sourceTree = "<group>"; };
-		4122A7A521749363006725B2 /* XModuleKabao.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XModuleKabao.m; sourceTree = "<group>"; };
+		4122A7A421749363006725B2 /* XModuleKbx.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XModuleKbx.h; sourceTree = "<group>"; };
+		4122A7A521749363006725B2 /* XModuleKbx.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XModuleKbx.m; sourceTree = "<group>"; };
 		41F811DD216AFD8A00104310 /* demo_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = demo_app.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		41F811E0216AFD8A00104310 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		41F811E1216AFD8A00104310 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -50,8 +50,8 @@
 		4122A7A321749336006725B2 /* src */ = {
 			isa = PBXGroup;
 			children = (
-				4122A7A421749363006725B2 /* XModuleKabao.h */,
-				4122A7A521749363006725B2 /* XModuleKabao.m */,
+				4122A7A421749363006725B2 /* XModuleKbx.h */,
+				4122A7A521749363006725B2 /* XModuleKbx.m */,
 			);
 			path = src;
 			sourceTree = "<group>";
@@ -219,7 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				41F811E5216AFD8A00104310 /* ViewController.m in Sources */,
-				4122A7A621749363006725B2 /* XModuleKabao.m in Sources */,
+				4122A7A621749363006725B2 /* XModuleKbx.m in Sources */,
 				41F811F0216AFD8B00104310 /* main.m in Sources */,
 				41F811E2216AFD8A00104310 /* AppDelegate.m in Sources */,
 			);

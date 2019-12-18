@@ -2,7 +2,7 @@
 //  perona.h
 //  perona
 //
-//  Created by 谢月甲 on 2019/12/18.
+//  Created by noear on 2019/12/18.
 //  Copyright © 2019 noear. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  XModuleImpModule2.m
 //  demo_module2
 //
-//  Created by 谢月甲 on 2018/10/9.
+//  Created by noear on 2018/10/9.
 //  Copyright © 2018 noear. All rights reserved.
 //
 

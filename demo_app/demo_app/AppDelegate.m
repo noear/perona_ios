@@ -2,14 +2,14 @@
 //  AppDelegate.m
 //  demo_app
 //
-//  Created by 谢月甲 on 2018/10/8.
+//  Created by noear on 2018/10/8.
 //  Copyright © 2018 noear. All rights reserved.
 //
 
 #import "AppDelegate.h"
 #import <perona/perona.h>
 
-#import "XModuleKabao.h"
+#import "XModuleKbx.h"
 
 @interface AppDelegate ()
 
@@ -22,16 +22,16 @@
     // Override point for customization after application launch.
     
     //启动服务（内置了正则路由 和 HASH路由，也可以自己定义一个）
-    [XApp start:application init]];
+    [XApp start:application];
     
     
     //添加一些自建的模块
-    [[XApp global] addModule:[[XModuleKabao alloc] init]];
+    [[XApp global] addModule:[[XModuleKbx alloc] init]];
     
     //测试效果
-//    [XClient call:self url:@"xapp://x/m2?a=1" params:nil callback:^(id  _Nonnull data) {
-//        NSLog(@"%@", data);
-//    }];
+    [XClient call:self url:@"kbx://code/22?a=1" params:nil callback:^(id  _Nonnull data) {
+        NSLog(@"%@", data);
+    }];
 //
 //    [XClient call:self url:@"xapp://x/m2" params:nil];
 //
