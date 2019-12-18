@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-demo_app/Pods-demo_app-frameworks.sh
+${BUILT_PRODUCTS_DIR}/demo_module2/demo_module2.framework
+${BUILT_PRODUCTS_DIR}/perona/perona.framework

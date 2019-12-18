@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:perona/perona.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:perona_demo/demo_app/demo_app.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:perona_demo/demo_module2/demo_module2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,6 @@
+framework module perona {
+  umbrella header "perona-umbrella.h"
+
+  export *
+  module * { export * }
+}

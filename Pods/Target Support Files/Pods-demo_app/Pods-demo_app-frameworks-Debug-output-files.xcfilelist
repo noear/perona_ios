@@ -1,0 +1,2 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/demo_module2.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/perona.framework

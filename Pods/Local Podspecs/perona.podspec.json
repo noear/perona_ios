@@ -1,0 +1,20 @@
+{
+  "name": "perona",
+  "version": "0.1.13",
+  "summary": "perona",
+  "description": "Just Test Model",
+  "homepage": "http://code.data.zm/noear/perona_ios",
+  "license": "MIT",
+  "authors": {
+    "noear": "noear@live.cn"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "path": "perona"
+  },
+  "source_files": "perona/**/*.{h,m}",
+  "public_header_files": "perona/**/*.h",
+  "requires_arc": true
+}

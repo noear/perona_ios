@@ -1,0 +1,26 @@
+{
+  "name": "demo_module1",
+  "version": "0.0.1",
+  "summary": "demo_module1",
+  "description": "Just Test Model",
+  "homepage": "http://code.data.zm/noear/solonboot_ios",
+  "license": "MIT",
+  "authors": {
+    "noear": "noear@live.cn"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "path": "demo_module1"
+  },
+  "source_files": "demo_module1/**/*.{h,m}",
+  "resources": "demo_module1/**/solonboot.plist",
+  "public_header_files": "demo_module1/**/*.h",
+  "requires_arc": true,
+  "dependencies": {
+    "solonboot": [
+
+    ]
+  }
+}
